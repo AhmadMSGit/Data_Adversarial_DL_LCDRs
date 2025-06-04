@@ -79,3 +79,11 @@ Ahmad Mohammad Saber, Aditi Maheshwari, Amr Youssef, and Deepa Kundur,
   journal   = {IEEE Transactions on Smart Grid},
   year      = {2024},
 }
+
+
+📄 Dataset License
+This dataset is released for academic and non-commercial research use only.
+
+Use is permitted only if the above paper is cited.
+
+Commercial use is not allowed without prior written approval from the first author (Ahmad Mohammad Saber).
