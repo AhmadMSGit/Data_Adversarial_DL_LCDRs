@@ -59,9 +59,18 @@ Each instance is a **6-dimensional multivariate time series** consisting of:
   - Fault types: single-line-to-ground, double-line, three-phase
   - Varying fault resistances and locations
   - Multiple FDIA strategies: different starting times, affected phases, and trajectories
-
+          
 ---
 
+## 📄 Dataset License
+
+This dataset is released for academic and non-commercial research use only.
+
+Use is permitted only if the below paper is cited.
+
+Commercial use is not allowed without prior written approval from the first author (Ahmad Mohammad Saber).
+
+---
 ## 📚 How to Cite
 
 If you use this dataset in your work, please cite the following paper:
@@ -79,11 +88,3 @@ Ahmad Mohammad Saber, Aditi Maheshwari, Amr Youssef, and Deepa Kundur,
   journal   = {IEEE Transactions on Smart Grid},
   year      = {2024},
 }
-
-
-📄 Dataset License
-This dataset is released for academic and non-commercial research use only.
-
-Use is permitted only if the above paper is cited.
-
-Commercial use is not allowed without prior written approval from the first author (Ahmad Mohammad Saber).
